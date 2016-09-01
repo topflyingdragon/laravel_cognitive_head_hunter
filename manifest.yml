@@ -1,0 +1,7 @@
+applications:
+- name: cognitive-head-hunter-php
+  memory: 512M
+  buildpack: https://github.com/cloudfoundry/php-buildpack#v3.2.2
+  env:
+    LINKEDIN_APPKEY: ENTER VALUE
+    LINKEDIN_APPSECRET: ENTER VALUE
