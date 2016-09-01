@@ -4,7 +4,7 @@
 
 ## Source install
 
-1. git clone https://kanesiro@bitbucket.org/sjwensley/laravel-cognitive-app.git
+1. git clone https://github.com/topflyingdragon/laravel_sample
 
 2. composer install
 
